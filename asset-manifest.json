@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/progress-tracker/static/css/main.a6be76d4.chunk.css",
+    "main.css": "/progress-tracker/static/css/main.f9f75c86.chunk.css",
     "main.js": "/progress-tracker/static/js/main.b3a691d3.chunk.js",
     "main.js.map": "/progress-tracker/static/js/main.b3a691d3.chunk.js.map",
     "runtime-main.js": "/progress-tracker/static/js/runtime-main.ff449d50.js",
@@ -9,17 +9,17 @@
     "static/js/2.30f24d59.chunk.js": "/progress-tracker/static/js/2.30f24d59.chunk.js",
     "static/js/2.30f24d59.chunk.js.map": "/progress-tracker/static/js/2.30f24d59.chunk.js.map",
     "index.html": "/progress-tracker/index.html",
-    "precache-manifest.8d9da8da349c490ace8f54765cb83d67.js": "/progress-tracker/precache-manifest.8d9da8da349c490ace8f54765cb83d67.js",
+    "precache-manifest.8403e603181c2a8139910e7600c8fc1d.js": "/progress-tracker/precache-manifest.8403e603181c2a8139910e7600c8fc1d.js",
     "service-worker.js": "/progress-tracker/service-worker.js",
     "static/css/2.d1fc3ea7.chunk.css.map": "/progress-tracker/static/css/2.d1fc3ea7.chunk.css.map",
-    "static/css/main.a6be76d4.chunk.css.map": "/progress-tracker/static/css/main.a6be76d4.chunk.css.map",
+    "static/css/main.f9f75c86.chunk.css.map": "/progress-tracker/static/css/main.f9f75c86.chunk.css.map",
     "static/js/2.30f24d59.chunk.js.LICENSE.txt": "/progress-tracker/static/js/2.30f24d59.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ff449d50.js",
     "static/css/2.d1fc3ea7.chunk.css",
     "static/js/2.30f24d59.chunk.js",
-    "static/css/main.a6be76d4.chunk.css",
+    "static/css/main.f9f75c86.chunk.css",
     "static/js/main.b3a691d3.chunk.js"
   ]
 }

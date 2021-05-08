@@ -14,6 +14,8 @@ var templogin = [
   { "Username": "Aman", "Password": "Aman" },
   { "Username": "Palak", "Password": "Palak" },
   { "Username": "Mukesh", "Password": "Mukesh" },
+  { "Username": "Yash", "Password": "Yash" },
+  { "Username": "Nikita", "Password": "Nikita" },
 ]
 
 class App extends Component {

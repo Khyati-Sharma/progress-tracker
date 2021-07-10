@@ -63,7 +63,7 @@ export default class PastRecord extends Component {
     }
 
     ]
-    if(loading)
+    if(this.state.loading)
       return (<div>Please Wait data is being loading</div>);
     else
       return (

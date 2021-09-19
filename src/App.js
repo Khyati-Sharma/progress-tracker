@@ -9,14 +9,14 @@ import Consistency from './Components/consistency';
 var templogin = [
   { "Username": "HitJatin", "Password": "#Jatin23" },
   { "Username": "Prarthana", "Password": "Prarthana" },
-  { "Username": "Ritik", "Password": "Ritik" },
   { "Username": "Khyati", "Password": "Khyati" },
-  { "Username": "Aman", "Password": "Aman" },
-  { "Username": "Palak", "Password": "Palak" },
   { "Username": "Mukesh", "Password": "Mukesh" },
   { "Username": "Yash", "Password": "Yash" },
   { "Username": "Nikita", "Password": "Nikita" },
   { "Username": "Akshit", "Password": "Akshit" },
+  { "Username": "Jyoti", "Password": "Jyoti" },
+  { "Username": "Avnish", "Password": "Avnish" },
+
 ]
 
 class App extends Component {

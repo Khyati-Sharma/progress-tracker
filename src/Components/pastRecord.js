@@ -63,12 +63,15 @@ export default class PastRecord extends Component {
     }
 
     ]
-    return (
-      <ReactTable
-        data={this.state.users}
-        columns={columns}
-      />
-    )
+    if(this.state.loading)
+      return (<div>Please Wait data is being loading</div>);
+    else
+      return (
+        <ReactTable
+          data={this.state.users}
+          columns={columns}
+        />
+      )
   }
 }
 
